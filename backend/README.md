@@ -10,7 +10,7 @@ Sigue estos pasos para configurar y ejecutar el backend:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [<url-del-repositorio>](https://github.com/jeperea45/Event_Management)
+   git clone https://github.com/jeperea45/Event_Management
    cd Event_Management
    ```
 
